@@ -64,9 +64,4 @@ Computer |1600    |3
 Phone    |12      |2
 Pipe     |1       |1
 
-___
-___
 
-
-<link rel="stylesheet" href="style.css"/>
-<button class="button-30" role="button">Button 30</button>
